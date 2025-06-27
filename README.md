@@ -8,7 +8,7 @@ Atualmente, estou em transição de carreira e curso Ciência da Computação na
 
 ## 🚀 Tecnologias que estou estudando
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,linux)
 
 ## 💻 O que você vai encontrar por aqui
 
