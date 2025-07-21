@@ -4,7 +4,7 @@
 
 Meu nome é **Thuysa**, tenho **27 anos** e sou de **Palhoça/SC**. Sou formada em **Pedagogia**, área na qual atuei por vários anos como professora da educação infantil. Durante esse período, aprofundei meus conhecimentos com **três pós-graduações** e adquiri sólida experiência na área educacional.
 
-Atualmente, estou em transição de carreira e curso Ciência da Computação na UNISUL, com foco em desenvolvimento web e de software. Embora ainda esteja no início da minha experiência prática, venho me dedicando intensamente a projetos pessoais que demonstram meu crescimento, curiosidade e comprometimento com a área da tecnologia.
+Atualmente, estou em transição de carreira e curso Administraçao na UNIASELVI e Ciência da Computação na UNISUL,essa ultima com foco em desenvolvimento web e de software. Embora ainda esteja no início da minha experiência prática, venho me dedicando intensamente a projetos pessoais que demonstram meu crescimento, curiosidade e comprometimento com a área da tecnologia.
 
 ## 🚀 Tecnologias que estou estudando
 
